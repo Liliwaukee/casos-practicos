@@ -1,0 +1,38 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+p {
+  font-family: 'Abel', sans-serif;
+  font-size: 12px;
+  padding: 10px;
+  /*font-family: 'PT Sans', sans-serif;*/
+}
+
+h3 {
+  font-family: 'Rajdhani', sans-serif;
+  color: #757575;
+  padding: 15px 0;
+  font-weight: bolder;
+}
+
+.fa {
+  color: #737373;
+}
+
+.box {
+  display: inline-block;
+  text-align: center;
+  color: #A1A1A1;
+  background-color: #F7F7F7;
+  height: 200px;
+  width: 140px;
+  box-shadow: 2px 2px #E8E8E8;
+  padding: 30px 10px;
+}
+
+.menu :hover {
+  background-color: white;
+  color: #B3C3DC;
+}
