@@ -40,3 +40,26 @@
   top: 105px;
   left: -3px;
 }
+
+.ball{
+  border-radius: 50px;
+  height: 15px;
+  width: 15px;
+  background-color: white;
+  box-shadow: 3px 3px grey;
+  position: absolute;
+}
+
+.one {
+  left: 90px;
+}
+
+.two {
+  left: 430px;
+  top: 40px;
+}
+
+.three {
+  left: 730px;
+  top: 255px;
+}
