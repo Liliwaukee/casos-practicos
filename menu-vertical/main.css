@@ -1,0 +1,18 @@
+li{
+  width: 300px;
+  list-style-type: none;
+  padding: 15px 20px;
+  background-color: #e6e8e9;
+  font-size: 18px;
+  font-family: 'Noto Sans', sans-serif;
+
+}
+
+.inicio{
+  background-color: #f5a427;
+  color: white;
+}
+
+li:hover{
+  background-color: #cacacc;
+}
