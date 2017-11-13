@@ -24,20 +24,19 @@
   position: absolute;
 }
 
-.rectangle {
+.rectangle, .rectangle-two {
   border: 3pt solid white;
   position: absolute;
-  top: 105px;
-  left: -3px;
   height: 180px;
   width: 100px;
 }
 
 .rectangle-two {
-  border: 3pt solid white;
-  position: absolute;
   top: 105px;
   left: 756px;
-  height: 180px;
-  width: 100px;
+}
+
+.rectangle {
+  top: 105px;
+  left: -3px;
 }
